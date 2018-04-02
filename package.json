@@ -1,0 +1,23 @@
+{
+  "name": "testrunners",
+  "version": "1.0.0",
+  "description": "my testrunners",
+  "main": "order.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qotsa2002/first_js_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qotsa2002/first_js_project/issues"
+  },
+  "homepage": "https://github.com/qotsa2002/first_js_project#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
